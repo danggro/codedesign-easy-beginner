@@ -16,23 +16,33 @@ export default function Hero() {
         </button>
       </div>
       <div className="relative w-full xl:w-7/12">
-        <img
+        <Image
           src="/image.png"
           alt=""
           className="xl:absolute bottom-0 left-[200px] -z-10"
+          width="530"
+          height="794"
         />
-        <img
+        <Image
           src="/rectangle.png"
           alt=""
           className="absolute xl:bottom-0 bottom-[220px] left-0 -z-20 xl:left-[140px]"
+          width="590"
+          height="847"
         />
         <div className="p-5 rounded-[10px] shadowHoladok w-[300px] mx-auto xl:absolute left-[38px] top-[120px] bg-white text-text xl:m-0 my-10">
           <div className="flex justify-between">
             <div className="flex items-center space-x-[10px]">
-              <img src="/EllipseHoladok.png" alt="" />
+              <Image src="/EllipseHoladok.png" alt="" width="30" height="30" />
               <span className="font-semibold text-[12px]">Jane Doe</span>
             </div>
-            <img src="/petik.svg" alt="" className="mr-2" />
+            <Image
+              src="/petik.svg"
+              alt=""
+              className="mr-2"
+              width="24"
+              height="24"
+            />
           </div>
           <p className="text-[12px] leading-[20px] mt-3 pr-2">
             “The doctor appointment app has been great for me. Scheduling
