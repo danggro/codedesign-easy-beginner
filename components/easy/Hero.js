@@ -47,8 +47,8 @@ export default function Hero() {
           <p className="text-[12px] leading-[20px] mt-3 pr-2">
             “The doctor appointment app has been great for me. Scheduling
             appointments and getting medication reminders is much easier, and I
-            love the option for virtual consultations. I'd recommend this app to
-            others.”
+            love the option for virtual consultations. I&apos;d recommend this
+            app to others.”
           </p>
         </div>
       </div>
