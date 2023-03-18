@@ -6,7 +6,7 @@ export default function NavItem() {
       <li>
         <Link
           href=""
-          className="font-semibold hover:underline xl:hover:font-semibold xl:opacity-60 hover:opacity-100"
+          className="font-semibold hover:underline xl:hover:no-underline xl:hover:font-semibold xl:opacity-60 hover:opacity-100"
         >
           Home
         </Link>
@@ -14,7 +14,7 @@ export default function NavItem() {
       <li>
         <Link
           href=""
-          className="font-semibold hover:underline xl:hover:font-semibold xl:opacity-60 hover:opacity-100"
+          className="font-semibold hover:underline xl:hover:no-underline xl:hover:font-semibold xl:opacity-60 hover:opacity-100"
         >
           Features
         </Link>
@@ -22,7 +22,7 @@ export default function NavItem() {
       <li>
         <Link
           href=""
-          className="font-semibold hover:underline xl:hover:font-semibold xl:opacity-60 hover:opacity-100"
+          className="font-semibold hover:underline xl:hover:no-underline xl:hover:font-semibold xl:opacity-60 hover:opacity-100"
         >
           Blog
         </Link>
@@ -30,7 +30,7 @@ export default function NavItem() {
       <li>
         <Link
           href=""
-          className="font-semibold hover:underline xl:hover:font-semibold xl:opacity-60 hover:opacity-100"
+          className="font-semibold hover:underline xl:hover:no-underline xl:hover:font-semibold xl:opacity-60 hover:opacity-100"
         >
           About Us
         </Link>
@@ -38,7 +38,7 @@ export default function NavItem() {
       <li>
         <Link
           href="/"
-          className="font-semibold hover:underline xl:hover:font-semibold xl:opacity-60 hover:opacity-100"
+          className="font-semibold hover:underline xl:hover:no-underline xl:hover:font-semibold xl:opacity-60 hover:opacity-100"
         >
           To Beginner Page
         </Link>
