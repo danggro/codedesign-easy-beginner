@@ -24,7 +24,7 @@ export default function Hero() {
           height="794"
         />
         <Image
-          src="/rectangle.png"
+          src="/Rectangle.png"
           alt=""
           className="absolute xl:bottom-0 bottom-[220px] left-0 -z-20 xl:left-[140px]"
           width="590"
